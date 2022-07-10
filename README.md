@@ -22,9 +22,11 @@ Software:
 The analysis focuses on the temperature and precipitation from six different weather stations in Oahu, Hawaii from the years 2010-2017: particularly the months of June and December.  
 
 Temperatures:
+
 ![Temperatures](https://user-images.githubusercontent.com/105124485/178166132-69ec0688-94e7-4466-88c4-6dc74bfc7411.png)
 
 Precipitation:
+
 ![Precipitation](https://user-images.githubusercontent.com/105124485/178166135-edd6d3c3-53b3-45ea-bf65-ac723e4ae49f.png)
 
 ## Summary
